@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OnlineSubsystemSteam-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Intermediate\Build\Win64\PPC_MP_4_27Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.gen.cpp.obj"
+"C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/OUT:"C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemSteam\UE4Editor-OnlineSubsystemSteam-0001.lib"

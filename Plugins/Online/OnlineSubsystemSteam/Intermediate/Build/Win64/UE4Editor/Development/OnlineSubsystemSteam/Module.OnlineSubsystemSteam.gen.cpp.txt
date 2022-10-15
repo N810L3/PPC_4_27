@@ -1,0 +1,72 @@
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemSteam\Definitions.OnlineSubsystemSteam.h
+C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Intermediate/Build/Win64/UE4Editor/Inc/OnlineSubsystemSteam/OnlineAuthHandlerSteam.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source/Private/OnlineAuthHandlerSteam.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemNames.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamTypes.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamPrivate.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_api.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steam_api_common.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamtypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamclientpublic.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamuniverse.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steam_api_internal.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamclient.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamuser.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamfriends.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamutils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteammatchmaking.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\matchmakingtypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamuserstats.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamremotestorage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamapps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworking.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamscreenshots.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteammusic.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteammusicremote.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamhttp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamhttpenums.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamcontroller.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteaminput.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamugc.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamapplist.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamhtmlsurface.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteaminventory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamvideo.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamparentalsettings.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamremoteplay.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingmessages.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamnetworkingtypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingsockets.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingutils.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_gameserver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamgameserver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamgameserverstats.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PacketHandlers\PacketHandler\Classes\HandlerComponentFactory.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler\HandlerComponentFactory.generated.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam\OnlineAuthHandlerSteam.generated.h
+C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Intermediate/Build/Win64/UE4Editor/Inc/OnlineSubsystemSteam/OnlineSubsystemSteam.init.gen.cpp
+C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Intermediate/Build/Win64/UE4Editor/Inc/OnlineSubsystemSteam/SteamNetConnection.gen.cpp
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source/Classes/SteamNetConnection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpConnection.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\IpConnection.generated.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam\SteamNetConnection.generated.h
+C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Intermediate/Build/Win64/UE4Editor/Inc/OnlineSubsystemSteam/SteamNetDriver.gen.cpp
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source/Classes/SteamNetDriver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpNetDriver.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\AddressInfoTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemUtils\IpNetDriver.generated.h
+C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam\SteamNetDriver.generated.h

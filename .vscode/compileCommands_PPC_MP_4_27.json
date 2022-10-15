@@ -1,0 +1,327 @@
+[
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Classes\\\\SteamNetConnection.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Classes\\\\SteamNetDriver.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\OnlineSubsystemSteam.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\IPAddressSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\IPAddressSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\NboSerializerSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAchievementsInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAchievementsInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAsyncTaskManagerSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAsyncTaskManagerSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAuthHandlerSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAuthHandlerSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAuthInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineAuthInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineEncryptedAppTicketInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineExternalUIInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineExternalUIInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineFriendsInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineFriendsInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineIdentityInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineIdentityInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineLeaderboardInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineLeaderboardInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlinePresenceInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlinePresenceInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionAsyncLobbySteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionAsyncLobbySteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionAsyncServerSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionAsyncServerSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSessionInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSharedCloudInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSharedCloudInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSubsystemModuleSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSubsystemSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSubsystemSteamPrivate.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineSubsystemSteamTypes.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineUserCloudInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\OnlineUserCloudInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SocketsSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SocketsSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SocketSubsystemSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SocketSubsystemSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SteamNetConnection.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SteamNetDriver.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SteamSessionKeys.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SteamUtilities.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\SteamUtilities.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoiceEngineSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoiceEngineSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoiceInterfaceSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoiceInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoicePacketSteam.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Private\\\\VoicePacketSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlineAuthInterfaceUtilsSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlineEncryptedAppTicketInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlinePingInterfaceSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlineSubsystemSteam.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlineSubsystemSteamModule.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Plugins\\\\Online\\\\OnlineSubsystemSteam\\\\Source\\\\Public\\\\OnlineSubsystemSteamPackage.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\Source.2.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Source\\\\PPC_MP_4_27\\\\PPC_MP_4_27.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\PPC_MP_4_27.213.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Source\\\\PPC_MP_4_27\\\\PPC_MP_4_27.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\PPC_MP_4_27.213.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Source\\\\PPC_MP_4_27\\\\PPC_MP_4_27.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\PPC_MP_4_27.213.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Source\\\\PPC_MP_4_27\\\\Private\\\\MyClass.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\PPC_MP_4_27.213.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\nle93\\\\Documents\\\\Unreal Projects\\\\PPC_MP_4_27\\\\Source\\\\PPC_MP_4_27\\\\Public\\\\MyClass.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\nle93\\Documents\\Unreal Projects\\PPC_MP_4_27\\.vscode\\compileCommands_PPC_MP_4_27\\PPC_MP_4_27.213.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]
