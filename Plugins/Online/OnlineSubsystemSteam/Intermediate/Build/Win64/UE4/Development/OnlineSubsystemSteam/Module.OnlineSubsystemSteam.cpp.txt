@@ -1,7 +1,7 @@
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Development\OnlineSubsystemSteam\Definitions.OnlineSubsystemSteam.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/IPAddressSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\IPAddressSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Development\OnlineSubsystemSteam\Definitions.OnlineSubsystemSteam.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/IPAddressSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\IPAddressSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineDelegateMacros.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemImpl.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystem.h
@@ -10,9 +10,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemNames.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamTypes.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamPrivate.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamTypes.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteamPrivate.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_api.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steam_api_common.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamtypes.h
@@ -50,52 +50,52 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv15
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_gameserver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamgameserver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamgameserverstats.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAchievementsInterfaceSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAchievementsInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAchievementsInterfaceSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAchievementsInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineAchievementsInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineStats.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineKeyValuePair.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineLeaderboardInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineLeaderboardInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineLeaderboardInterface.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAsyncTaskManagerSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAsyncTaskManagerSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAsyncTaskManagerSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAsyncTaskManagerSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineAsyncTaskManager.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\SocketSubsystem.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\AddressInfoTypes.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSessionSettings.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineSubsystemPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlinePresenceInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlinePresenceInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlinePresenceInterface.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionAsyncLobbySteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionAsyncServerSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineExternalUIInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionAsyncLobbySteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSessionAsyncServerSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineExternalUIInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineExternalUIInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineMessageInterface.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\OnlineError.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAuthInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineAuthInterfaceUtilsSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SocketSubsystemSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SteamUtilities.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAuthHandlerSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAuthHandlerSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAuthInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineAuthInterfaceUtilsSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SocketSubsystemSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SteamUtilities.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAuthHandlerSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineAuthHandlerSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\PacketHandlers\PacketHandler\Classes\HandlerComponentFactory.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\PacketHandler\HandlerComponentFactory.generated.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\OnlineAuthHandlerSteam.generated.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\OnlineAuthHandlerSteam.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtils.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtilsModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineIdentityInterface.h
@@ -148,45 +148,45 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Publi
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/BiQuadFilter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/EQ.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemUtils\VoipListenerSynthComponent.generated.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAuthInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineAuthInterfaceSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameSession.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameSession.generated.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineEncryptedAppTicketInterfaceSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineEncryptedAppTicketInterfaceSteam.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineExternalUIInterfaceSteam.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineFriendsInterfaceSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineFriendsInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineIdentityInterfaceSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineIdentityInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineLeaderboardInterfaceSteam.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlinePresenceInterfaceSteam.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionAsyncLobbySteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlinePingInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SteamSessionKeys.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionAsyncServerSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineEncryptedAppTicketInterfaceSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineEncryptedAppTicketInterfaceSteam.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineExternalUIInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineFriendsInterfaceSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineFriendsInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineIdentityInterfaceSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineIdentityInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineLeaderboardInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlinePresenceInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionAsyncLobbySteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlinePingInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SteamSessionKeys.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionAsyncServerSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameStateBase.generated.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSessionInterfaceSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\LANBeacon.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\NboSerializerSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\NboSerializerSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\NboSerializer.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSharedCloudInterfaceSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSharedCloudInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineUserCloudInterfaceSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSharedCloudInterfaceSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSharedCloudInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineUserCloudInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSharedCloudInterface.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSubsystemModuleSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamModule.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSubsystemModuleSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamShared\Source\SteamShared\Public\SteamSharedModule.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\Steam\SteamShared\Source\SteamShared\Public\SteamSharedPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSubsystemSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineSubsystemSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
@@ -194,14 +194,14 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Module
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoiceInterfaceSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoiceInterfaceSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoicePacketImpl.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtilsPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtilsPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceInterfaceImpl.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtilsPackage.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoiceEngineSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoiceEngineSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\OnlineSubsystemUtilsPackage.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public\VoiceEngineImpl.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\Voice\Public\Interfaces/VoiceCapture.h
@@ -235,28 +235,28 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\ActiveSo
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/StrongObjectPtr.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineUserCloudInterfaceSteam.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SocketsSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SocketsSteam.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/OnlineUserCloudInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SocketsSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\SocketsSteam.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\Sockets.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SocketSubsystemSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SocketSubsystemSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Sockets\Public\SocketSubsystemModule.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Classes\SteamNetConnection.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Classes\SteamNetConnection.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpConnection.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemUtils\IpConnection.generated.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\SteamNetConnection.generated.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamNetConnection.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Classes\SteamNetDriver.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\SteamNetConnection.generated.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamNetConnection.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Classes\SteamNetDriver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes\IpNetDriver.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemUtils\IpNetDriver.generated.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\SteamNetDriver.generated.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamNetDriver.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamUtilities.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoiceEngineSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam\SteamNetDriver.generated.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamNetDriver.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/SteamUtilities.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoiceEngineSteam.cpp
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\Voice\Public\VoiceModule.h
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoiceInterfaceSteam.cpp
-C:/Users/nle93/Documents/Unreal Projects/PPC_MP_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoicePacketSteam.cpp
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoicePacketSteam.h
-C:\Users\nle93\Documents\Unreal Projects\PPC_MP_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoiceInterfaceSteam.cpp
+C:/Users/nle93/Desktop/PPC_Repo/PPC_4_27/Plugins/Online/OnlineSubsystemSteam/Source/Private/VoicePacketSteam.cpp
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Private\VoicePacketSteam.h
+C:\Users\nle93\Desktop\PPC_Repo\PPC_4_27\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
